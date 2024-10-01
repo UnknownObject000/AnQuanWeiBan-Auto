@@ -3,6 +3,7 @@
 ## 声明
 1. 本项目基于 @FallenSigh 的 [WeibanTool](https://github.com/FallenSigh/WeibanTool) 项目进行修改适配
 2. 此项目仅供学习交流，本人不对因使用此项目产生的任何后果负责
+3. 此项目仅为GitHub镜像，项目原地址位于 [AnQuanWeiBan-Auto](http://git.unknownnetworkservice.com:8013/UnknownObject/AnQuanWeiBan-Auto)
 
 ## 实现原理
 1. 使用API抓取课程列表（可得到每门课的课程ID）
